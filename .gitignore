@@ -1,3 +1,4 @@
+env_*/
 *.py[oc]
 __pycache__
 .coverage
